@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82ed1d73-9bb6-48d5-aa68-eb740921c6da" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/importlib/__init__.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/django/db/models/base.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/django/contrib/auth/models.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/django/contrib/contenttypes/models.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/django/contrib/auth/forms.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/captcha/fields.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1r6CobMPiBT2fWnVuHqLlWzaE0P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hui\Desktop\zh_graduation\static\images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="zh_graduate" type="Python.DjangoServer" factoryName="Django server">
+      <module name="MxOnline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="MxOnline.settings" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\hui\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82ed1d73-9bb6-48d5-aa68-eb740921c6da" name="Default Changelist" comment="" />
+      <created>1618287328986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618287328986</updated>
+      <workItem from="1618287330178" duration="107000" />
+      <workItem from="1618800815562" duration="321000" />
+      <workItem from="1618801163715" duration="6893000" />
+      <workItem from="1618836038505" duration="1716000" />
+      <workItem from="1618923137532" duration="4273000" />
+      <workItem from="1618928641068" duration="5079000" />
+      <workItem from="1618988786708" duration="4006000" />
+      <workItem from="1619008396593" duration="1840000" />
+      <workItem from="1619017618561" duration="7266000" />
+      <workItem from="1619057594500" duration="4664000" />
+      <workItem from="1619062561948" duration="2453000" />
+      <workItem from="1619417703505" duration="244000" />
+      <workItem from="1619541664265" duration="104000" />
+      <workItem from="1619541911243" duration="198000" />
+      <workItem from="1619593642810" duration="28000" />
+      <workItem from="1619594380948" duration="252000" />
+      <workItem from="1619682093140" duration="3714000" />
+      <workItem from="1619792538811" duration="176000" />
+      <workItem from="1620049046604" duration="617000" />
+      <workItem from="1620056303826" duration="1791000" />
+      <workItem from="1620133529049" duration="728000" />
+      <workItem from="1620141855935" duration="1019000" />
+      <workItem from="1620185172064" duration="176000" />
+      <workItem from="1620271435071" duration="622000" />
+      <workItem from="1620282231623" duration="618000" />
+      <workItem from="1620292243922" duration="15496000" />
+      <workItem from="1621323044721" duration="269000" />
+      <workItem from="1622477895689" duration="1208000" />
+      <workItem from="1622549965807" duration="1932000" />
+      <workItem from="1622820415269" duration="2171000" />
+      <workItem from="1622826198367" duration="355000" />
+      <workItem from="1622855764862" duration="307000" />
+      <workItem from="1622856431704" duration="2532000" />
+      <workItem from="1622860712244" duration="293000" />
+      <workItem from="1622861157187" duration="2851000" />
+      <workItem from="1622910866145" duration="4907000" />
+      <workItem from="1622983701149" duration="850000" />
+      <workItem from="1622990196973" duration="2352000" />
+      <workItem from="1623037456492" duration="3382000" />
+      <workItem from="1626669649987" duration="97000" />
+      <workItem from="1626671888888" duration="88000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
